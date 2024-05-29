@@ -43,10 +43,8 @@ Obrigado por fazer parte dessa jornada conosco. Juntos, continuaremos a inovar e
 
 ## Criadores 
 
-Luiz Fernando da cunha  - "fez a pagina de jogos"
-
-Arthur carreiro - "fez a pagina inicial"
-
-João Navarro - "fez a parte dos computadores"
+* Luiz Fernando da cunha  - "fez a pagina de jogos"
+* Arthur carreiro - "fez a pagina inicial"
+* João Navarro - "fez a parte dos computadores"
 
 
