@@ -41,6 +41,12 @@ Aos nossos colaboradores, nossa mais profunda gratidão pelo seu empenho e dedic
 
 Obrigado por fazer parte dessa jornada conosco. Juntos, continuaremos a inovar e a proporcionar experiências incríveis em tecnologia e videogames.
 
+## Criadores 
 
+Luiz Fernando da cunha  - "fez a pagina de jogos"
+
+Arthur carreiro - "fez a pagina inicial"
+
+João Navarro - "fez a parte dos computadores"
 
 
