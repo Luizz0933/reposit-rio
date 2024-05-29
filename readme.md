@@ -31,7 +31,15 @@ Periféricos para PC: Teclados mecânicos, mouses gamers, monitores de alta reso
 Acessórios para Consoles: Controles, fones de ouvido, e equipamentos de realidade virtual.
 Estamos sempre atualizando nosso estoque para garantir que os produtos mais recentes e populares estejam disponíveis para nossos clientes. Além disso, oferecemos a possibilidade de pré-venda para lançamentos altamente aguardados, garantindo que você tenha acesso às últimas novidades assim que forem lançadas. Na Toscana Tech, nosso objetivo é proporcionar a melhor experiência em tecnologia e entretenimento digital.
 
+## agradecimentos   
 
+Gostaríamos de expressar nossa sincera gratidão a todos os nossos clientes e colaboradores que fazem parte da família Toscana Tech.
+
+Aos nossos clientes, agradecemos pela confiança e preferência. Vocês são a razão pela qual nos esforçamos diariamente para oferecer produtos de alta qualidade e um atendimento excepcional. É um privilégio poder ajudá-los a encontrar as melhores soluções em tecnologia e entretenimento. Seu apoio e feedback são fundamentais para o nosso crescimento e aprimoramento contínuo.
+
+Aos nossos colaboradores, nossa mais profunda gratidão pelo seu empenho e dedicação. Cada membro da equipe Toscana Tech desempenha um papel crucial na realização de nossa missão de conectar o futuro da tecnologia aos nossos clientes. Seu talento, paixão e trabalho árduo são a base do nosso sucesso.
+
+Obrigado por fazer parte dessa jornada conosco. Juntos, continuaremos a inovar e a proporcionar experiências incríveis em tecnologia e videogames.
 
 
 
